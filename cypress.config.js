@@ -2,7 +2,7 @@ const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   chromeWebSecurity: false,
-  projectId: '7fqnmu',
+  projectId: 'vamipv',
   e2e: {
     experimentalSessionAndOrigin: true,
     setupNodeEvents(on, config) {
